@@ -1,0 +1,7 @@
+img {
+  border: 5px solid #5c4033;
+}
+
+a:hover {
+  background-color: yellow;
+}
